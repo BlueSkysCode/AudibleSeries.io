@@ -192,7 +192,7 @@
                 "title": "Regicide",
                 "asin": "B07FKYC3LD",
                 "owned": true,
-                "summary": "<p>It all began like an epic adventure. Finding the Tear of the Demon King and the Black Sword, journeying to the lost continent, meeting good friends, and battling vicious adversaries. It was a breakthrough into the depths of the virtual world, where no one before me had gone....</p>",
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
                 "sub_title": "The Completionist Chronicles Series, Book 2",
                 "issue_date": "2018-09-18",
                 "product_images": {
@@ -203,7 +203,7 @@
                 "title": "Ritualist",
                 "asin": "B07BTHWMFF",
                 "owned": true,
-                "summary": "<p>It all began like an epic adventure. Finding the Tear of the Demon King and the Black Sword, journeying to the lost continent, meeting good friends, and battling vicious adversaries. It was a breakthrough into the depths of the virtual world, where no one before me had gone....</p>",
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
                 "sub_title": "Completionist Chronicles, Book 1",
                 "issue_date": "2018-05-15",
                 "product_images": {
@@ -777,7 +777,7 @@
                 "title": "Viridian Gate Online: Empirical Endgame",
                 "asin": "B09VY8D463",
                 "owned": true,
-                "summary": "<p>Jack thought the assault on Skalah&#xf3;lt would be a short, victorious war. But his army's been stopped cold, and someone close to him has been taken by the Overmind of Death. Every second counts if Jack wants her back alive. He'll have to dive into Thanatos's twisted game-within-a-game...</p>",
+                "summary": "<p>Jack thought the assault on Skalaholt would be a short, victorious war. But his army's been stopped cold, and someone close to him has been taken by the Overmind of Death. Every second counts if Jack wants her back alive. He'll have to dive into Thanatos's twisted game-within-a-game...</p>",
                 "sub_title": "The Viridian Gate Archives, Book 8",
                 "issue_date": "2022-03-18",
                 "product_images": {
@@ -788,7 +788,7 @@
                 "title": "Viridian Gate Online: Darkling Siege",
                 "asin": "B0899JMKJP",
                 "owned": true,
-                "summary": "<p>Black knights. Dastardly pirates. Bloodthirsty rebels. And those are the good guys. War is coming to the Midlands. Like a kettle ready to bubble over, cities teeter at the brink of boiling, all while a spymaster fans the flames....</p>",
+                "summary": "<p>Discover how to embrace your best basic self in this laugh-out-loud funny guide from the breakout star of Bravo's hit reality show <i>Vanderpump Rules</i>, perfect for fans of the relatable and entertaining books by the Betches and Andi Dorfman....</p>",
                 "sub_title": "The Viridian Gate Archives, Book 7",
                 "issue_date": "2020-06-02",
                 "product_images": {
@@ -979,7 +979,7 @@
                 "title": "On the Shoulders of Titans",
                 "asin": "B07MDDG8PZ",
                 "owned": true,
-                "summary": "<p>The goblin invasion is on...and a wizard's work is never done! After facing a hopeless siege, an implacable foe, and an impossible escape, you would think that Minalan the Spellmonger would be able to rest....</p>",
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
                 "sub_title": "Arcane Ascension, Book 2",
                 "issue_date": "2019-01-15",
                 "product_images": {
@@ -990,7 +990,7 @@
                 "title": "Sufficiently Advanced Magic",
                 "asin": "B072YT93QD",
                 "owned": true,
-                "summary": "<p>The goblin invasion is on...and a wizard's work is never done! After facing a hopeless siege, an implacable foe, and an impossible escape, you would think that Minalan the Spellmonger would be able to rest....</p>",
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
                 "sub_title": "Arcane Ascension, Book 1",
                 "issue_date": "2017-07-04",
                 "product_images": {
@@ -1292,7 +1292,7 @@
                 }
             },
             {
-                "title": "Watcher\u2019s Fate",
+                "title": "Watcher's Fate",
                 "asin": "B08RGPQDP7",
                 "owned": true,
                 "summary": "<p>Hall had played the VRMMORPG, Sky Realms Online, since beta. During one gaming session, a freak accident traps Hall and other players in the game. They awaken to find out their bodies are comatose and they have been downloaded fully into the virtual world....</p>",
@@ -1589,7 +1589,7 @@
                 "title": "Demon Lords",
                 "asin": "B086VVG8Q2",
                 "owned": true,
-                "summary": "<p>Black knights. Dastardly pirates. Bloodthirsty rebels. And those are the good guys. War is coming to the Midlands. Like a kettle ready to bubble over, cities teeter at the brink of boiling, all while a spymaster fans the flames....</p>",
+                "summary": "<p>Discover how to embrace your best basic self in this laugh-out-loud funny guide from the breakout star of Bravo's hit reality show <i>Vanderpump Rules</i>, perfect for fans of the relatable and entertaining books by the Betches and Andi Dorfman....</p>",
                 "sub_title": "World-Tree Trilogy, Book 2",
                 "issue_date": "2020-04-09",
                 "product_images": {
@@ -1937,7 +1937,7 @@
         ]
     },
     {
-        "publication_name": null,
+        "publication_name": "None",
         "books": [
             {
                 "title": "The Good Fight",
@@ -1948,28 +1948,6 @@
                 "issue_date": "2020-09-22",
                 "product_images": {
                     "500": "https://m.media-amazon.com/images/I/51+SvBWJuOL._SL500_.jpg"
-                }
-            },
-            {
-                "title": "Next Level Basic",
-                "asin": "B07L8MM519",
-                "owned": true,
-                "summary": "<p>Black knights. Dastardly pirates. Bloodthirsty rebels. And those are the good guys. War is coming to the Midlands. Like a kettle ready to bubble over, cities teeter at the brink of boiling, all while a spymaster fans the flames....</p>",
-                "sub_title": "The Definitive Basic Bitch Handbook",
-                "issue_date": "2019-04-16",
-                "product_images": {
-                    "500": "https://m.media-amazon.com/images/I/51AoOX0z4cL._SL500_.jpg"
-                }
-            },
-            {
-                "title": "The Cycle of Arawn",
-                "asin": "B00W8DAB9M",
-                "owned": true,
-                "summary": "<p>Koren Bladewell now knows he is a wizard, but he is lost in the wilderness, cut off from help, and unable to use his powers. The enemy is poised at the border with an overwhelming invasion force, and it will take wizards, soldiers and a young, untested princess to hold off defeat....</p>",
-                "sub_title": "The Complete Trilogy",
-                "issue_date": "2015-06-12",
-                "product_images": {
-                    "500": "https://m.media-amazon.com/images/I/51iNanjsv8L._SL500_.jpg"
                 }
             }
         ]
@@ -2110,7 +2088,7 @@
                 "title": "Civil War",
                 "asin": "B07N34HKBC",
                 "owned": true,
-                "summary": "<p>The goblin invasion is on...and a wizard's work is never done! After facing a hopeless siege, an implacable foe, and an impossible escape, you would think that Minalan the Spellmonger would be able to rest....</p>",
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
                 "sub_title": "A litRPG Adventure (The Rogue Dungeon, Book 2)",
                 "issue_date": "2019-01-30",
                 "product_images": {
@@ -2191,6 +2169,22 @@
         ]
     },
     {
+        "publication_name": "None",
+        "books": [
+            {
+                "title": "Next Level Basic",
+                "asin": "B07L8MM519",
+                "owned": true,
+                "summary": "<p>Discover how to embrace your best basic self in this laugh-out-loud funny guide from the breakout star of Bravo's hit reality show <i>Vanderpump Rules</i>, perfect for fans of the relatable and entertaining books by the Betches and Andi Dorfman....</p>",
+                "sub_title": "The Definitive Basic Bitch Handbook",
+                "issue_date": "2019-04-16",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51AoOX0z4cL._SL500_.jpg"
+                }
+            }
+        ]
+    },
+    {
         "publication_name": "Chaos Seeds",
         "books": [
             {
@@ -2208,7 +2202,7 @@
                 "title": "The Land: Predators: A LitRPG Saga",
                 "asin": "B07F3MCHF4",
                 "owned": true,
-                "summary": "<p>It all began like an epic adventure. Finding the Tear of the Demon King and the Black Sword, journeying to the lost continent, meeting good friends, and battling vicious adversaries. It was a breakthrough into the depths of the virtual world, where no one before me had gone....</p>",
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
                 "sub_title": "Chaos Seeds, Book 7",
                 "issue_date": "2018-06-28",
                 "product_images": {
@@ -2311,7 +2305,7 @@
         ]
     },
     {
-        "publication_name": "The Wraith's Haunt Series\u00a0",
+        "publication_name": "The Wraith's Haunt Series ",
         "books": [
             {
                 "title": "Dungeon Lord: Ancient Traditions",
@@ -2325,21 +2319,21 @@
                 }
             },
             {
-                "title": "Dungeon Lord: Abominable Creatures",
-                "asin": "B07NBVPPLF",
-                "owned": true,
-                "summary": "<p>The goblin invasion is on...and a wizard's work is never done! After facing a hopeless siege, an implacable foe, and an impossible escape, you would think that Minalan the Spellmonger would be able to rest....</p>",
-                "sub_title": "The Wraith's Haunt, Book 3",
-                "issue_date": "2019-02-05",
+                "title": "Dungeon Lord",
+                "asin": "B07956BMDH",
+                "owned": false,
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
+                "sub_title": "The Wraith's Haunt: A LitRPG Series, Book 1",
+                "issue_date": "2018-01-11",
                 "product_images": {
-                    "500": "https://m.media-amazon.com/images/I/51SrynhwTtL._SL500_.jpg"
+                    "500": "https://m.media-amazon.com/images/I/51KdVim8UUL._SL500_.jpg"
                 }
             },
             {
                 "title": "Dungeon Lord: Otherworldly Powers",
                 "asin": "B07D42HN1B",
-                "owned": true,
-                "summary": "<p>It all began like an epic adventure. Finding the Tear of the Demon King and the Black Sword, journeying to the lost continent, meeting good friends, and battling vicious adversaries. It was a breakthrough into the depths of the virtual world, where no one before me had gone....</p>",
+                "owned": false,
+                "summary": "<p>Ed finds himself thrown in conflict against the man behind the mindbrood's attack, a man who is seemingly capable of shrugging off mortal wounds and who is willing to unleash a devastating plague of undead against the Haunt and everyone inside....</p>",
                 "sub_title": "The Wraith's Haunt, Book 2",
                 "issue_date": "2018-05-18",
                 "product_images": {
@@ -2347,14 +2341,14 @@
                 }
             },
             {
-                "title": "Dungeon Lord",
-                "asin": "B07956BMDH",
-                "owned": true,
-                "summary": "<p>It all began like an epic adventure. Finding the Tear of the Demon King and the Black Sword, journeying to the lost continent, meeting good friends, and battling vicious adversaries. It was a breakthrough into the depths of the virtual world, where no one before me had gone....</p>",
-                "sub_title": "The Wraith's Haunt: A LitRPG Series, Book 1",
-                "issue_date": "2018-01-11",
+                "title": "Dungeon Lord: Abominable Creatures",
+                "asin": "B07NBVPPLF",
+                "owned": false,
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
+                "sub_title": "The Wraith's Haunt, Book 3",
+                "issue_date": "2019-02-05",
                 "product_images": {
-                    "500": "https://m.media-amazon.com/images/I/51KdVim8UUL._SL500_.jpg"
+                    "500": "https://m.media-amazon.com/images/I/51SrynhwTtL._SL500_.jpg"
                 }
             }
         ]
@@ -2519,7 +2513,7 @@
                 "title": "Dungeon Desolation",
                 "asin": "1977385885",
                 "owned": true,
-                "summary": "<p>The goblin invasion is on...and a wizard's work is never done! After facing a hopeless siege, an implacable foe, and an impossible escape, you would think that Minalan the Spellmonger would be able to rest....</p>",
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
                 "sub_title": "Divine Dungeon Series, Book 4",
                 "issue_date": "2019-01-22",
                 "product_images": {
@@ -2612,7 +2606,7 @@
                 "title": "The Sixth Strand",
                 "asin": "1774240491",
                 "owned": false,
-                "summary": "<p>The First Lord's game has reached a critical apex. For the first time in millennia, the teams are equally matched. The field itself holds a kind of equilibrium. It is the task of Bj\u00f6rn's Players to unbalance the field in their own favor in their great game....</p>",
+                "summary": "<p>The First Lord's game has reached a critical apex. For the first time in millennia, the teams are equally matched. The field itself holds a kind of equilibrium. It is the task of Bjorn's Players to unbalance the field in their own favor in their great game....</p>",
                 "sub_title": "A Pattern of Shadow and Light, Book 5",
                 "issue_date": "2019-12-30",
                 "product_images": {
@@ -2710,7 +2704,7 @@
                 "title": "Age of War",
                 "asin": "B074F9NBDR",
                 "owned": true,
-                "summary": "<p>It all began like an epic adventure. Finding the Tear of the Demon King and the Black Sword, journeying to the lost continent, meeting good friends, and battling vicious adversaries. It was a breakthrough into the depths of the virtual world, where no one before me had gone....</p>",
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
                 "sub_title": "The Legends of the First Empire, Book 3",
                 "issue_date": "2018-07-03",
                 "product_images": {
@@ -3015,6 +3009,55 @@
         ]
     },
     {
+        "publication_name": "The Wraith's Haunt Series ",
+        "books": [
+            {
+                "title": "Dungeon Lord: Abominable Creatures",
+                "asin": "B07NBVPPLF",
+                "owned": true,
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
+                "sub_title": "The Wraith's Haunt, Book 3",
+                "issue_date": "2019-02-05",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51SrynhwTtL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord",
+                "asin": "B07956BMDH",
+                "owned": false,
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
+                "sub_title": "The Wraith's Haunt: A LitRPG Series, Book 1",
+                "issue_date": "2018-01-11",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51KdVim8UUL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord: Otherworldly Powers",
+                "asin": "B07D42HN1B",
+                "owned": false,
+                "summary": "<p>Ed finds himself thrown in conflict against the man behind the mindbrood's attack, a man who is seemingly capable of shrugging off mortal wounds and who is willing to unleash a devastating plague of undead against the Haunt and everyone inside....</p>",
+                "sub_title": "The Wraith's Haunt, Book 2",
+                "issue_date": "2018-05-18",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51bxyp25mSL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord: Ancient Traditions",
+                "asin": "B083BFPF8C",
+                "owned": false,
+                "summary": "<p>The secrets of the factory of nightmares are free for the taking...and Dungeon Lord Edward Wright intends to claim them....</p>",
+                "sub_title": "The Wraith's Haunt - A LitRPG Series, Book 4",
+                "issue_date": "2019-12-31",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51KzyhIbm3L._SL500_.jpg"
+                }
+            }
+        ]
+    },
+    {
         "publication_name": "AlterGame",
         "books": [
             {
@@ -3048,6 +3091,104 @@
                 "issue_date": "2017-12-05",
                 "product_images": {
                     "500": "https://m.media-amazon.com/images/I/61WDBeWLGML._SL500_.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "publication_name": "The Wraith's Haunt Series ",
+        "books": [
+            {
+                "title": "Dungeon Lord: Otherworldly Powers",
+                "asin": "B07D42HN1B",
+                "owned": true,
+                "summary": "<p>Ed finds himself thrown in conflict against the man behind the mindbrood's attack, a man who is seemingly capable of shrugging off mortal wounds and who is willing to unleash a devastating plague of undead against the Haunt and everyone inside....</p>",
+                "sub_title": "The Wraith's Haunt, Book 2",
+                "issue_date": "2018-05-18",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51bxyp25mSL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord",
+                "asin": "B07956BMDH",
+                "owned": false,
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
+                "sub_title": "The Wraith's Haunt: A LitRPG Series, Book 1",
+                "issue_date": "2018-01-11",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51KdVim8UUL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord: Abominable Creatures",
+                "asin": "B07NBVPPLF",
+                "owned": false,
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
+                "sub_title": "The Wraith's Haunt, Book 3",
+                "issue_date": "2019-02-05",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51SrynhwTtL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord: Ancient Traditions",
+                "asin": "B083BFPF8C",
+                "owned": false,
+                "summary": "<p>The secrets of the factory of nightmares are free for the taking...and Dungeon Lord Edward Wright intends to claim them....</p>",
+                "sub_title": "The Wraith's Haunt - A LitRPG Series, Book 4",
+                "issue_date": "2019-12-31",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51KzyhIbm3L._SL500_.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "publication_name": "The Wraith's Haunt Series ",
+        "books": [
+            {
+                "title": "Dungeon Lord",
+                "asin": "B07956BMDH",
+                "owned": true,
+                "summary": "<p>When Edward is swept into the world of Ivalis as a Dungeon Lord, the Dark's most powerful servant, he has no servitude in mind. He'll oppose the evil plans of the Dark god, Murmur, whatever it takes....</p>",
+                "sub_title": "The Wraith's Haunt: A LitRPG Series, Book 1",
+                "issue_date": "2018-01-11",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51KdVim8UUL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord: Otherworldly Powers",
+                "asin": "B07D42HN1B",
+                "owned": false,
+                "summary": "<p>Ed finds himself thrown in conflict against the man behind the mindbrood's attack, a man who is seemingly capable of shrugging off mortal wounds and who is willing to unleash a devastating plague of undead against the Haunt and everyone inside....</p>",
+                "sub_title": "The Wraith's Haunt, Book 2",
+                "issue_date": "2018-05-18",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51bxyp25mSL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord: Abominable Creatures",
+                "asin": "B07NBVPPLF",
+                "owned": false,
+                "summary": "<p>The Light strives to purify the kingdom of Starevos from evil...and only Dungeon Lord Edward Wright stands in their way....</p>",
+                "sub_title": "The Wraith's Haunt, Book 3",
+                "issue_date": "2019-02-05",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51SrynhwTtL._SL500_.jpg"
+                }
+            },
+            {
+                "title": "Dungeon Lord: Ancient Traditions",
+                "asin": "B083BFPF8C",
+                "owned": false,
+                "summary": "<p>The secrets of the factory of nightmares are free for the taking...and Dungeon Lord Edward Wright intends to claim them....</p>",
+                "sub_title": "The Wraith's Haunt - A LitRPG Series, Book 4",
+                "issue_date": "2019-12-31",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51KzyhIbm3L._SL500_.jpg"
                 }
             }
         ]
@@ -3239,6 +3380,22 @@
                 "issue_date": "2017-10-31",
                 "product_images": {
                     "500": "https://m.media-amazon.com/images/I/51wylO1QRML._SL500_.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "publication_name": "None",
+        "books": [
+            {
+                "title": "The Cycle of Arawn",
+                "asin": "B00W8DAB9M",
+                "owned": true,
+                "summary": "In Mallon the dark magic of the nether has been banned for centuries. Its users have been driven out or killed....",
+                "sub_title": "The Complete Trilogy",
+                "issue_date": "2015-06-12",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51iNanjsv8L._SL500_.jpg"
                 }
             }
         ]
