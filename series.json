@@ -996,6 +996,17 @@
                 "product_images": {
                     "500": "https://m.media-amazon.com/images/I/51d6YgMWC9L._SL500_.jpg"
                 }
+            },
+            {
+                "title": "The Silence of Unworthy Gods",
+                "asin": "B0BHJF9622",
+                "owned": false,
+                "summary": "<p>Upon returning to Valia after his journey to Caelford and the Unclaimed Lands, Corin Cadence is confronted with a familiar foe\u2014his own father....</p>",
+                "sub_title": "Arcane Ascension, Book 4",
+                "issue_date": "2022-12-27",
+                "product_images": {
+                    "500": "https://m.media-amazon.com/images/I/51nt3n8pkJL._SL500_.jpg"
+                }
             }
         ]
     },
